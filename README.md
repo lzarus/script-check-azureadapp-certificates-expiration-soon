@@ -1,0 +1,1 @@
+# script-check-azureadapp-certificates-expiration-soon
